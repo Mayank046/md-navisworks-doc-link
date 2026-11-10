@@ -1,0 +1,11 @@
+MD Doc Link v1.0.0
+Author: MD (Mayank Dholariya)
+
+A panel for Autodesk Navisworks Manage / Simulate 2017 to 2027 (64-bit).
+Reads an Excel list (for example a line list or equipment list), matches each
+row's key (line no. / tag) to model items, and adds the row's documents
+(PDF, drawing, folder or web link) as Navisworks hyperlinks on those items.
+
+Needs Navisworks Manage or Simulate. Navisworks Freedom cannot load plugins.
+
+Please close Navisworks before continuing.
